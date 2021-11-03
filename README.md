@@ -41,10 +41,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 The license used is "MIT"
 
 ## Resources
-Bootcamp Materials
-YouTube
-Programming with Mosh Guide for React
-StackOverflow Threads
+- Bootcamp Materials
+- YouTube
+- Programming with Mosh Guide for React
+- StackOverflow Threads
 
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at olivcode999@gmail.com. You can find more of my work at https://github.com/oliversh99
