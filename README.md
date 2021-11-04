@@ -1,6 +1,13 @@
 # My-Portfolio-React
 A portfolio built with React and Material UI
 
+## links
+* the Github repository URL:https://github.com/oliversh99/My-Portfolio-React
+
+* the deployed application:https://oliversh99.github.io/My-Portfolio-React/
+
+
+
 ## User Story
 
 AS AN employer looking for candidates with experience building single-page applications
