@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
-import NavBar from "./NavBar";
+import NavBar from "./NavBars";
 import About from "./pages/About";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";

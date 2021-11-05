@@ -4,7 +4,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /* background-color: #e4ddf4; */
-  background-color: rgb(113, 132, 177);
+  /* background-color: rgb(113, 132, 177); */
+  background-color: rgb(231, 235, 243);
+
 }
 
 code {
